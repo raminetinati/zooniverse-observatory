@@ -1,0 +1,52 @@
+body {
+    background: #333;
+    color: #5c5c5c;
+    font: 16px "Lucida Grande", Lucida, Verdana, sans-serif;
+}
+
+#map {
+    height: 400px;
+    width: 1000px;
+    margin-top: 20px;
+    position: absolute;
+    margin-right: 410px;
+    right: 0;
+    top: 0;
+}
+
+
+#stats {
+    position: absolute;
+    margin-right: 410px;
+	margin-top: 420px;
+    top: 0;
+    right: 0;
+    text-align: left;
+    width: 1040px;
+    font: 16px "Lucida Grande", Lucida, bold, Verdana, sans-serif;
+    letter-spacing: -1px;
+}
+
+#statsOverall {
+
+	position: absolute;
+    margin-right: 10px;
+	margin-top: 20px;
+    top: 0;
+    right: 0;
+    text-align: left;
+    width: 150;
+    font: 20px "Lucida Grande", Lucida, Verdana, sans-serif;
+    letter-spacing: -1px;
+    line-height: 25px;
+
+}
+
+#projects {
+  position: absolute;
+  left: 0;
+  margin-left: 14px;
+  margin-top: 14px;
+  top: 0;
+  width: 300px;
+}
